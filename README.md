@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Nikolay</h1>
 
-I am a passionate programmer who enjoys solving complex problems and coming up with creative solutions. I've been studying programming since 2021 and have already mastered **C#**, **C++** and **Python**. Currently, I enjoy creating software the most, and I use **.NET MAUI** and **Qt** to do so.
+I am a passionate programmer who enjoys solving complex problems and coming up with creative solutions. I've been studying programming since 2021 and have already mastered **C#**, **C++**, **Python** and other **tools**. Currently, I enjoy creating software the most, and I use **.NET MAUI** and **Qt** to do so.
 
 Feel free to check out my projects or contact me if you want to collaborate or have any questions!
 
