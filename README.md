@@ -9,7 +9,7 @@ Feel free to check out my projects or contact me if you want to collaborate or h
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kolyaklimk&show_icons=true&theme=dark&locale=en&layout=compact"/></p>
 
 - 🌱 I’m currently learning C# (.NET MAUI)
-- 📫 How to reach me: [Email](mailto:kolyaklimk@gmail.com), [Instagram](https://instagram.com/klimkovich_kolya)
+- 📫 How to reach me: [Email](mailto:kolyaklimk@gmail.com), [LinkedIn](https://linkedin.com/in/nikolay-klimkovich/), [Instagram](https://instagram.com/klimkovich_kolya)
 
 <h3 align="left">Languages and Tools:</h3>
 <p> 
